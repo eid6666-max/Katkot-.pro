@@ -1,0 +1,42 @@
+{
+  "id": "/Katkot-.pro/",
+  "name": "مزرعتي | إدارة دواجن التسمين",
+  "short_name": "كتكوت Pro",
+  "description": "تطبيق شامل لإدارة دورات تسمين الدواجن — سجلات يومية، مخزون، مالية، وتنبيهات، يعمل بالكامل بدون إنترنت.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#2F4538",
+  "theme_color": "#2F4538",
+  "dir": "rtl",
+  "lang": "ar",
+  "categories": [
+    "business",
+    "productivity",
+    "utilities"
+  ],
+  "launch_handler": {
+    "client_mode": "navigate-existing"
+  },
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
